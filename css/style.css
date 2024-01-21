@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+section {
+    padding: 100px 0px 100px 0px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/arrow-left-square-fill.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/arrow-right-square-fill.svg);
+}
+
